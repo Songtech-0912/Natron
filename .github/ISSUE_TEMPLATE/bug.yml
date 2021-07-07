@@ -67,6 +67,8 @@ body:
         - label: Yes, I used the official installer
         - label: No, I installed from a binary archive
         - label: No, I compiled Natron from sources
+        - label: No, I installed Natron using Flatpak
+        - label: No, I installed Natron using Snap
         - label: No, I installed Natron via another method
     validations:
       required: true
