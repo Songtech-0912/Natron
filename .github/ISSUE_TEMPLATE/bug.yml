@@ -1,5 +1,5 @@
 name: New issue for bug report
-description: Got a glitch, crash, or some other problem? If you're sure your issue is reproducible, feel free to report the issue to Natron's development team.
+description: "Got a glitch, crash, or some other problem? If you're sure your issue is reproducible, feel free to report the issue to Natron's development team."
 title: "(Bug): <title>"
 labels: "type:bug"
 body:
